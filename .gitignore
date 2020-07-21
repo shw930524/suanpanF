@@ -1,0 +1,6 @@
+/.idea
+/.vscode
+/nbproject
+*.log
+.env
+Thinkphp6.0.rar
